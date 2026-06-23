@@ -1,0 +1,7 @@
+title: ""
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "note"
