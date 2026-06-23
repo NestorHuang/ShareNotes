@@ -1,0 +1,7 @@
+# Obsidian workspace and local app state.
+notes/.obsidian/
+notes/.trash/
+
+# OS/editor noise.
+.DS_Store
+Thumbs.db
